@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **<dhruvkishorjain2508@gmail.com>**
 
-### Blogs posts
+<!-- ### BLOG POST --> 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

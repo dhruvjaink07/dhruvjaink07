@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 

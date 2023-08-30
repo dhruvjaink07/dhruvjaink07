@@ -82,4 +82,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=dhruvjaink07&theme=radical&no-frame=false&no-bg=false&margin-w=2)
   
 </p>
-### <h1><p align ="center"> Have a great day! <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px">
+<h1><p align ="center"> Have a great day! <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px">

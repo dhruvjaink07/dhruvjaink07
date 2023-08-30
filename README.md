@@ -52,7 +52,7 @@
 <br>
 
   ## My Github Stats 
-<!-- <p align="center">
+<p align="center">
  <a href="#"><img alt="Dhruv Jain's Github Stats"   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhruvjaink07&theme=react&langs_count=5&layout=compact" /></p>
  <p align="center"> -->
  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaink07&text_color=FFFFFF&bg_color=000000&title_color=orange&langs_count=15&layout=compact&hide_border=true" />

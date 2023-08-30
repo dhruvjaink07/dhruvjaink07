@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffecd2&size=29&multiline=true&width=700&lines=Welcome+To+The+Dhruv+Jain's+Github+Profile)](https://git.io/typing-svg)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=dhruvjaink07&color=blueviolet&style=flat-square)
 <a><img src="https://img.shields.io/github/followers/dhruvjaink07?label=Followers&style=social" alt="GitHub Badge"></a>
 # I'm a Tech Enthusiast!!</b>&nbsp;
@@ -49,7 +52,9 @@
 <br>
 
   ## My Github Stats 
- <p align="center">
+<!-- <p align="center">
+ <a href="#"><img alt="Dhruv Jain's Github Stats"   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhruvjaink07&theme=react&langs_count=5&layout=compact" /></p>
+ <p align="center"> -->
  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaink07&text_color=FFFFFF&bg_color=000000&title_color=orange&langs_count=15&layout=compact&hide_border=true" />
   </p>
 <p align="center">
@@ -77,3 +82,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=dhruvjaink07&theme=radical&no-frame=false&no-bg=false&margin-w=2)
   
 </p>
+### <h1><p align ="center"> Have a great day! <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px">

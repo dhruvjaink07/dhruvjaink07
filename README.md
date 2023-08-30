@@ -1,44 +1,79 @@
-<h1 align="center">Hi! 👋, I'm Dhruv</h1>
-<h3 align="center">A passionate developer from India</h3>
+![Visitor Count](https://komarev.com/ghpvc/?username=dhruvjaink07&color=blueviolet&style=flat-square)
+<a><img src="https://img.shields.io/github/followers/dhruvjaink07?label=Followers&style=social" alt="GitHub Badge"></a>
+# I'm a Tech Enthusiast!!</b>&nbsp;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvjaink07&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvjaink07" /> </p>
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate More on Real World Problems 
+- 💬 Ask me about React, Flutter, MongoDB  
+- ⚡ Fun fact: I watch tutorials in 2x speed 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvjaink07" alt="dhruvjaink07" /></a> </p>
+## Connect with me:
+<a href="https://www.linkedin.com/in/dhruv-jain-0ab564251/" target="_blank" >
+  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+<a href="https://twitter.com/djain007" target="_blank" >
+    <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://hashnode.com/@dhruvjaink" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+<!--   <a href="[https://www.instagram.c/](https://www.instagram.com/_manjiric_/)" target="_blank">
+    <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> -->
+ 
 
-<p align="left"> <a href="https://twitter.com/djain007" target="blank"><img src="https://img.shields.io/twitter/follow/djain007?logo=twitter&style=for-the-badge" alt="djain007" /></a> </p>
+  <br>
+  <br>
 
-- 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Flutter**
+<br>
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+ ## Languages and Tools: 
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+![](https://img.shields.io/badge/Java-F7AF1E?style=for-the-badge&logo=java&logoColor=black)
+![](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=darkgreen)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Angular-CB3837?style=for-the-badge&logo=angular%20studio%20code&logoColor=white) -->
+![](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=darkgreen)
+![](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
+<!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) -->
 
-- 🤝 I’m looking for help with **Open Source Contributions**
+<br>
 
-- 💬 Ask me about **React JS, MongoDB (Console), Basic Java, Basic C, Basic C++**
+<br>
 
-- 📫 How to reach me **<dhruvkishorjain2508@gmail.com>**
-
-<!-- ### BLOG POST --> 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/djain007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="djain007" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/dhruv-jain-0ab564251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-jain-0ab564251" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19624929/dhruv-jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19624929/dhruv-jain" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dhruvjaink/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvjaink" height="30" width="40" /></a>
-<a href="https://medium.com/@jaindhruv25006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jaindhruv25006" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dhruvjaink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhruvjaink" height="30" width="40" /></a>
-<a href="https://leetcode.com/dhruvjaink07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvjaink07" height="30" width="40" /></a>
+  ## My Github Stats 
+ <p align="center">
+ <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjaink07&text_color=FFFFFF&bg_color=000000&title_color=orange&langs_count=15&layout=compact&hide_border=true" />
+  </p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvjaink07&show_icons=true&hide_border=true&title_color=orange&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
 </p>
+ 
+<!-- <p align="center">
+ <a href="#"><img alt="Manjri Chavande's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codex108&layout=compact&langs_count=8&theme=radical"/> </a>
+ </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+ <p align="center">
+ <a href="#"><img alt="Manjri Chavande's stats" src="https://github-readme-stats.vercel.app/api?username=codex108&show_icons=true&theme=radical"/> </a>
+ </p>
+ 
+  <p align="center" >
+ <a href="#"><img  alt="Manjri Chavande's streak"  src="https://github-readme-streak-stats.herokuapp.com/?user=codex108&theme=radical&hide_border=true&stroke=0000&background=0D1117" /> </a></p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvjaink07&show_icons=true&locale=en&layout=compact" alt="dhruvjaink07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvjaink07&show_icons=true&locale=en" alt="dhruvjaink07" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvjaink07&" alt="dhruvjaink07" /></p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=dhruvjaink07&theme=radical&no-frame=false&no-bg=false&margin-w=2)
+  
+</p>

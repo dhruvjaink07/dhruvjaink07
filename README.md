@@ -45,7 +45,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 <br>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvjaink07&show_icons=true&locale=en" alt="dhruvjaink07" /></p>
 ## 🏆 GitHub Trophies
 <p align="center">
   

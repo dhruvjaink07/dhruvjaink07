@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate More on Real World Problems
-- 💻 Working as a Mobile application developer intern at Digi-lateral Solutions
+// - 💻 Working as a Mobile application developer intern
 - 💬 Ask me about Flutter, Xcode, iOS, AppStoreConnect, MongoDB
 - ⚡ Fun fact: I watch tutorials in 2x speed 
 

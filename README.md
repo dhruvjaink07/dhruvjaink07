@@ -38,7 +38,7 @@
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvjaink07&show_icons=true&locale=en" alt="dhruvjaink07" /></p>
-## 🏆 GitHub Trophies
+🏆 GitHub Trophies
 <p align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=dhruvjaink07&theme=radical&no-frame=false&no-bg=false&margin-w=2)

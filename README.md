@@ -42,6 +42,10 @@
 <p align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=dhruvjaink07&theme=radical&no-frame=false&no-bg=false&margin-w=2)
-  
+	
+ <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+</div>
 </p>
 <h1><p align ="center"> Have a great day! <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="25px">

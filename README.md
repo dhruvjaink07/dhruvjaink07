@@ -36,6 +36,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+<a href="#"><img alt="Dhruv's Github Stats"   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhruvjaink07&theme=react&langs_count=5&layout=compact" /></p>
+ 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvjaink07&show_icons=true&locale=en" alt="dhruvjaink07" /></p>
 🏆 GitHub Trophies

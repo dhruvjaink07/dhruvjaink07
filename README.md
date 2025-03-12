@@ -5,9 +5,9 @@
 <a><img src="https://img.shields.io/github/followers/dhruvjaink07?label=Followers&style=social" alt="GitHub Badge"></a>
 # I'm a Tech Enthusiast!!</b>&nbsp;
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Flask
 - 👯 I’m looking to collaborate More on Real World Problems
-- 💬 Ask me about Flutter, Xcode, iOS, AppStoreConnect, MongoDB
+- 💬 Ask me about Flutter, Xcode, iOS, AppStoreConnect, MongoDB, SoringBoot
 - ⚡ Fun fact: I watch tutorials in 2x speed 
 
 ## Connect with me:

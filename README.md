@@ -5,7 +5,7 @@
 <a><img src="https://img.shields.io/github/followers/dhruvjaink07?label=Followers&style=social" alt="GitHub Badge"></a>
 # I'm a Tech Enthusiast!!</b>&nbsp;
 
-- 🌱 I’m advancing in Flutter building craxy products
+- 🌱 I’m advancing in Flutter building crazy products
 - 🧑‍💻 Worked Previosly as a Flutter Developer at DIGI-Lateral Solutions
 - 👯 I’m looking to collaborate More on Real World Problems
 - 💬 Ask me about Flutter, Java, Mobile Dev, UI/UX 
